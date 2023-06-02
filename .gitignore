@@ -9,3 +9,6 @@
 *.iml
 /.name
 /modules.xml
+/.idea/.name
+/.idea/modules.xml
+/.idea/workspace.xml
