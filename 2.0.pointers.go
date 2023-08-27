@@ -45,6 +45,3 @@ func negateExample() {
 	negateSimple(y)
 	fmt.Println(y) // 4
 }
-
-func main() {
-}
